@@ -52,7 +52,7 @@ This repository contains automated end-to-end tests for the [Sauce Demo](https:/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/saucedemo-cypress-tests.git
+   git clone https://github.com/R080T/saucedemo-cypress-tests.git
    cd saucedemo-cypress-tests
 
    ```
@@ -72,6 +72,7 @@ This repository contains automated end-to-end tests for the [Sauce Demo](https:/
    ```
 
 2. **Interactive Mode (Cypress Test Runner)**
+
    ```bash
    npm run open
 
